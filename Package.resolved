@@ -3,7 +3,7 @@
     "pins": [
       {
         "package": "SCScrollView",
-        "repositoryURL": "git@github.com:Sidetalker/SCScrollView.git",
+        "repositoryURL": "https://github.com/Sidetalker/SCScrollView.git",
         "state": {
           "branch": "spm-support",
           "revision": "c2d16eacc23639dea347b334a6fe9d289599f851",
